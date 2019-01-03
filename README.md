@@ -1,1 +1,3 @@
 # leetcode_brush_problem
+
+本文件记录leetcode上刷到一些题目
